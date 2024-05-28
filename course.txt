@@ -1,0 +1,5 @@
+1,CS101,Intro to Comp Sci,1,1
+2,ENG101,Intro to English,1,1
+3,Physics11,Intro to Phyics,6,1
+4,CIS120,Database,1,1
+5,BIO3,Intro to Bio,4,6
